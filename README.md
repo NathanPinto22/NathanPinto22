@@ -3,6 +3,6 @@
 <br>
 - 🕮 I'm currently studying Computer Engineering<br>
 - 🔭 I’m working on improving my skills in web development<br>
-### - 🌱 I’m currently learning **JavaScript** and **Python**<br>
+- 🌱 I’m currently learning <b>JavaScript</b> and <b>Python</b><br>
 - 📫 You can reach me at nathanpintogoa@gmail.com<br>
-- ⚡ Fun fact: Coding is better with a snack :)<br>
+- ⚡ Fun fact: Coding is better with a snack(s) :)<br>
