@@ -5,4 +5,4 @@
 - 🔭 I’m working on improving my skills in web development<br>
 - 🌱 I’m currently learning <a href="https://www.javascript.com/"><b>JavaScript</b></a> and <a href="https://www.python.org/"><b>Python</b></a><br>
 - 📫 You can reach me at nathanpintogoa@gmail.com<br>
-- ⚡ Fun fact: Coding is better with a snack(s) :)<br>
+- ⚡ Fun fact: Coding is better with music<br>
